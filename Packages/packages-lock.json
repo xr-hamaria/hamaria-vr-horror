@@ -252,7 +252,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.openxr.picoxr": {
-      "version": "file:C:/Users/Naborisk/Downloads/PICO Unity OpenXR Plugin（Experiment）",
+      "version": "file:../PICO Unity OpenXR Plugin（Experiment）",
       "depth": 0,
       "source": "local",
       "dependencies": {
